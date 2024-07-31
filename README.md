@@ -11,6 +11,32 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omair-Akbar&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<body>
+    <style>
+        .background {
+            background-color: #1A1B27;
+            padding: 5px 10px 5px 10px;
+        }
+        .box{
+            display: flex;
+            flex-direction: row;
+            border-radius: 8px;
+            overflow: hidden;
+            margin: 10px;
+            width: 185px;
+            border: rgb(196, 196, 196) 1px solid;
+            background-color: #2B7773;
+            color: #E4EBF1; 
 
+        }
+        .number{
+            
+            color: #E4EBF1;
+            padding: 5px 10px 5px 10px;
+        }
+    </style>
+    <div class="box">
+        <div class="background">Profile Views</div>
+        <div class="number">1.39 k</div>
+    </div>
+</body>
