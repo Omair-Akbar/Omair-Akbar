@@ -44,7 +44,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://img.shields.io/badge/Profile_Views-43,274-blue)<br/>
+![](https://img.shields.io/badge/Profile_Views-83,294-blue)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Omair-Akbar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Omair-Akbar&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omair-Akbar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
