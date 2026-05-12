@@ -1,11 +1,13 @@
-<div align="">
+<div align="center">
   <img src="assets/terminal.gif" alt="Terminal Animation" width="600"/>
 </div>  
+<br/>
 <br/>
 <br/>
 <div align="center">
   <img src="assets/omair-akbar-space-shooter.gif" alt="Terminal Animation" width="600"/>
 </div>  
+<br/>
 <br/>
 <br/>
 
