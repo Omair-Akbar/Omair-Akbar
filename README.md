@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <br/>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="omair-akbar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/omair-akbar?trk=profile-badge">Omair Akbar 🇵🇸</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="omair-akbar" data-version="v1"></div>
               
 <br/>
 <br/>
