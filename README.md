@@ -4,8 +4,9 @@
 <br/>
 <br/>
 <br/>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="omair-akbar" data-version="v1"></div>
-              
+<div align="center">
+  <img src="assets/omair-akbar-space-shooter.gif" alt="Terminal Animation" width="600"/>
+</div>  
 <br/>
 <br/>
 <br/>
