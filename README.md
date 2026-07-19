@@ -1,4 +1,4 @@
-<div align="start">
+<!--  <div align="start">
   <img src="assets/terminal.gif" alt="Terminal Animation" width="600"/>
 </div>  
 <br/>
@@ -9,7 +9,7 @@
 </div>  
 <br/>
 <br/>
-<br/>
+<br/>  --> 
 
 
 # 📊 GitHub Stats:
@@ -20,4 +20,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omair-akbar&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
