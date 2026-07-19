@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <br/>
-<div align="end">
+<div align="start">
   <img src="assets/omair-akbar-space-shooter.gif" alt="Terminal Animation" width="600"/>
 </div>  
 <br/>
